@@ -14,7 +14,7 @@
 				border-left: 9px solid #FF6600; /*Change left border color*/
 				color: #2c3e50; /*Change text color*/
 			}
-        	</style>
+        </style>
 
         <body>
 

@@ -6,6 +6,7 @@ import java.util.regex.Pattern;
 
 public class EmailValidator {
 	public static boolean isValid(String email) {
+		
 		if(email == null) {
 			return false;
 		}

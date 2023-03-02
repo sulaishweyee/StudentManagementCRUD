@@ -10,7 +10,7 @@ import java.util.List;
 
 import studentmanagement.model.Student;
 
-//used for CRUD operations for Student table in the database
+// CRUD operations for students table in the database
 public class StudentDAO {
 	private String jdbcURL = "jdbc:mysql://localhost:3306/studentdb?useSSL=false";
 	private String jdbcUsername = "root";
